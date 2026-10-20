@@ -1,0 +1,7 @@
+mode,share_percent,mean_minutes,category
+Bus,32,27,Shared transport
+Walking,22,12,Active travel
+Campus shuttle,21,24,Shared transport
+Private car / motorcycle,15,18,Private transport
+Bicycle,6,14,Active travel
+Taxi / ride-hail,4,16,Private transport
